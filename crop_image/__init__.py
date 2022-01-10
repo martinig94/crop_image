@@ -1,0 +1,1 @@
+from crop_image.main import CropImage
